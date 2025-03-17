@@ -1,6 +1,6 @@
 # TinyBlinky
 
-This is a simple demo on how to use the TinyBlinky board - it requires Arduino IDE and the following libs to compile:
+TinyBlink_demo.ino is a simple demo on how to use the TinyBlinky board - it requires Arduino IDE and the following libs to compile:
 
 *<EEPROM.h>*
 
